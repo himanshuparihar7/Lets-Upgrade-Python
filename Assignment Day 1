@@ -1,0 +1,11 @@
+Day 1 Assignment
+
+1) What is Python? What are the new ways to install python in your PC.
+=> Python is an interpreted high-level programming language which is used for scripting and automation. It was founded in 1991 by Guido van Rossum.
+Python can be installed from python.org or by using or using Anaconda.
+
+2)What are Code Environments? types
+
+=> A code environment is a standalone and self-contained environment to run
+Python or R code.
+Its types are Text Editors, IDE, Notebook Environment
